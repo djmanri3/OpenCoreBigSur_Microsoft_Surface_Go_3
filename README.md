@@ -73,7 +73,7 @@ Telegram:
 Guide used:
 - https://dortania.github.io/OpenCore-Install-Guide/
 
-GitHUb based repo:
+GitHub based repo:
 - https://github.com/kingo132/surface-go2-hackintosh
 
 Youtube channel where it is explained step by step
